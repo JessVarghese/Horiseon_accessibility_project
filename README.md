@@ -26,13 +26,8 @@ gh repo clone JessVarghese/Horiseon_accessibility_project
 
 ## Usage
 
-```md
-![visuals](assets/images/Horiseon_image_1.jpeg)
-```
 
-
-## Credits
-
+![visuals](https://user-images.githubusercontent.com/90148936/134939856-af6bacfd-62fa-41c4-b75c-f563891d7371.png)
 
 
 ## License
