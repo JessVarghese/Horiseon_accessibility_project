@@ -24,7 +24,7 @@ gh repo clone JessVarghese/Horiseon_accessibility_project
 
 ## Usage
 
-##Credits
+## Credits
 
-##License
+## License
 
